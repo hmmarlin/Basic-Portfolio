@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  margin:0px;
+}
+
+body {
+	line-height: 18px;
+	width:960px;
+}
+#header {
+	clear:both;
+	overflow: auto;
+	padding: 0px;
+	border-bottom: 2px lightgrey solid;
+
+}
+
+h1 {
+	background-color:#4aaaa5;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: white;
+	font-family: 'Georgia', Times, serif;
+	width:300px;
+	text-align: center;
+	margin-left: 50px;
+	font-size: 30px;
+	float:left;
+	top:0;
+	bottom:0;
+
+}
+
+#navlinks {
+	width:25%;
+	float:right;
+	padding-top: 20px;
+
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+}
+
+#main {
+
+	background-image: url("background-geometry.png");
+	overflow: auto;
+
+}
+
+h2 {
+	font-family: 'Georgia', Times, serif;
+	padding-bottom: 20px;
+	border-bottom: 2px lightgrey solid;
+	color:#4aaaa5;
+	margin-right: 10px;
+	margin-left: 10px;
+
+
+}
+
+#about-me {
+	float:left;
+	overflow: auto;
+	padding-top:5px;
+	width: 550px;
+	background-color: white;
+	border:solid 1px lightgrey;
+	margin: 20px 30px 20px 50px;
+}
+
+
+
+img {
+	float:left;
+	padding: 5px;
+}
+
+#connect {
+	float:right;
+	overflow: auto;
+	background-color: white;
+	border:solid 1px lightgrey;
+	margin: 20px 20px 20px 30px;
+	width: 270px;
+	text-align: center;
+	;
+}
+
+#social-links {
+	float:right;
+	width: 33%;
+}
+
+h3 {
+	font-family: 'Georgia', Times, serif;
+	padding-bottom: 20px;
+	border-bottom: 2px lightgrey solid;
+	color:#4aaaa5;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+
+#footer {
+	background-color: #666666;
+	color: white;
+	font-size: 10px;
+	text-align: center;
+	padding:10px;
+	border-top: 6px #4aaaa5 solid;
+
+}
+
+p {
+	color:lightgrey;
+	padding: 5px, 15px, 5px, 15px;
+}
