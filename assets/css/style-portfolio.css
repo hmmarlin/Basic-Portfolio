@@ -1,0 +1,72 @@
+p {
+    font-family: 'Georgia', Times, serif;
+}
+img {
+    overflow:auto;
+}
+
+#skills {
+    padding:15px 5px 15px 5px;
+    background-color: teal;
+    color: white;
+    position: absolute;
+    top: 290px;
+    left: 106px;
+    width: 225px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#computers {
+    padding:15px 5px 15px 5px;
+    background-color: teal;
+    color: white;
+    position: absolute;
+    top: 290px;
+    left: 441px;
+    width: 225px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#typing {
+    padding:15px 5px 15px 5px;
+    background-color: teal;
+    color: white;
+    position: absolute;
+    top: 554px;
+    left: 106px;
+    width: 225px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#hearts {
+    padding:15px 5px 15px 5px;
+    background-color: teal;
+    color: white;
+    position: absolute;
+    top: 554px;
+    left: 441px;
+    width: 225px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#bingo {
+    padding:15px 5px 15px 5px;
+    background-color: teal;
+    color: white;
+    position: absolute;
+    top: 816px;
+    left: 106px;
+    width: 225px;
+    text-align: center;
+    font-size: 25px;
+}
+
+td img {
+    margin-right: 40px;
+    margin-left: 40px;
+   
+    }
