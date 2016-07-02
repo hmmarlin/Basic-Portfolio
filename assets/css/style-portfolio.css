@@ -5,64 +5,38 @@ img {
     overflow:auto;
 }
 
-#skills {
+#skills, #computers, #typing, #hearts, #bingo {
     padding:15px 5px 15px 5px;
     background-color: teal;
     color: white;
-    position: absolute;
-    top: 290px;
-    left: 106px;
-    width: 225px;
+    position: absolute; 
     text-align: center;
     font-size: 25px;
+    width: 225px;
+}
+#skills {
+    top: 290px;
+    left: 106px;
 }
 
 #computers {
-    padding:15px 5px 15px 5px;
-    background-color: teal;
-    color: white;
-    position: absolute;
     top: 290px;
     left: 441px;
-    width: 225px;
-    text-align: center;
-    font-size: 25px;
 }
 
 #typing {
-    padding:15px 5px 15px 5px;
-    background-color: teal;
-    color: white;
-    position: absolute;
-    top: 554px;
+    top: 547px;
     left: 106px;
-    width: 225px;
-    text-align: center;
-    font-size: 25px;
 }
 
 #hearts {
-    padding:15px 5px 15px 5px;
-    background-color: teal;
-    color: white;
-    position: absolute;
-    top: 554px;
+    top: 547px;
     left: 441px;
-    width: 225px;
-    text-align: center;
-    font-size: 25px;
 }
 
 #bingo {
-    padding:15px 5px 15px 5px;
-    background-color: teal;
-    color: white;
-    position: absolute;
-    top: 816px;
+    top: 803px;
     left: 106px;
-    width: 225px;
-    text-align: center;
-    font-size: 25px;
 }
 
 td img {
